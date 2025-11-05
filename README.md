@@ -130,7 +130,3 @@ Visualization example:
 **Hürü Algayeva**
 📧 [huru.algayeva@gwu.edu](mailto:huru.algayeva@gwu.edu)
 🔗 [LinkedIn](https://www.linkedin.com/in/hurualqayeva/)
-
----
-
-Would you like me to make it Markdown-formatted and downloadable as `README.md`?
