@@ -93,9 +93,8 @@ model.save('final_model.keras')
 
 Visualization example:
 
-| Satellite Image               | Ground Truth          | Predicted Mask            |
-| ----------------------------- | --------------------- | ------------------------- |
-| ![satellite](example_sat.png) | ![gt](example_gt.png) | ![pred](example_pred.png) |
+<img width="1249" height="433" alt="image" src="https://github.com/user-attachments/assets/1828e243-e75d-4df5-b792-3732c5326439" />
+
 
 ---
 
