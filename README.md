@@ -1,6 +1,8 @@
 # 🛰️ Object Detection of Roads using U-Net
 
-A deep learning project focused on **road segmentation from satellite imagery** using the **U-Net architecture**. This work was completed as part of the **CSCI 6364 - Machine Learning** course (Fall 2024) by **Hürü Algayeva**.
+A deep learning project focused on **road segmentation from satellite imagery** using the **U-Net architecture**.
+<img width="1249" height="433" alt="image" src="https://github.com/user-attachments/assets/f81982e4-aa67-438f-8884-aee0e7754d2b" />
+
 
 ---
 
